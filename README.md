@@ -10,7 +10,6 @@ The main goal is to uncover insights about:
 ---
 
 ## Project Structure
-## Project Structure
 ```text
 Superstore-EDA-Project/
 ├─ data/
@@ -61,6 +60,7 @@ This project was created as part of my **Data Science portfolio** to demonstrate
 - Data visualization & storytelling
 
 Feel free to check out the notebook and share feedback!  
+
 
 
 
