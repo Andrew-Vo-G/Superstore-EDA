@@ -27,8 +27,11 @@ Superstore-EDA-Project/
 ### Top 10 Customers by Sales
 ![Top Customers](Superstore-EDA-Project/Notebooks/images/top_customers.png)
 
-### Sales Distribution
-![Sales Distribution](Superstore-EDA-Project/Notebooks/images/sales_distribution.png)
+### Monthly Sales
+![Monthly_Sales](Superstore-EDA-Project/Notebooks/images/monthly_sales.png)
+
+### Top 10 Pruducts by Sales
+![Top Products](Superstore-EDA-Project/Notebooks/images/top_products.png)
 
 **Main Findings:**
 - Sales are **concentrated among a small group of top customers**.  
@@ -60,6 +63,7 @@ This project was created as part of my **Data Science portfolio** to demonstrate
 - Data visualization & storytelling
 
 Feel free to check out the notebook and share feedback!  
+
 
 
 
