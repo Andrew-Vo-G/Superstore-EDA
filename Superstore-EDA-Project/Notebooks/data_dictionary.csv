@@ -1,0 +1,22 @@
+Column,DataType,UniqueValues,MissingValues
+Row ID,int64,9994,0
+Order ID,object,5009,0
+Order Date,object,1237,0
+Ship Date,object,1334,0
+Ship Mode,object,4,0
+Customer ID,object,793,0
+Customer Name,object,793,0
+Segment,object,3,0
+Country,object,1,0
+City,object,531,0
+State,object,49,0
+Postal Code,int64,631,0
+Region,object,4,0
+Product ID,object,1862,0
+Category,object,3,0
+Sub-Category,object,17,0
+Product Name,object,1850,0
+Sales,float64,5825,0
+Quantity,int64,14,0
+Discount,float64,12,0
+Profit,float64,7287,0
