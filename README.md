@@ -11,16 +11,15 @@ The main goal is to uncover insights about:
 
 ## Project Structure
 Superstore-EDA-Project/
-├── data/
-│ ├── Sample_Superstore.csv
-│ ├── data_dictionary.csv
-├── images/
-│ ├── sales_distribution.png
-│ ├── top_customers.png
-├── notebooks/
-│ ├── Exploratory Data Analysis (EDA).ipynb
-├── README.md
-
+├─ data/
+│  ├─ Sample_Superstore.csv
+│  └─ data_dictionary.csv
+├─ images/
+│  ├─ sales_distribution.png
+│  └─ top_customers.png
+├─ notebooks/
+│  └─ Exploratory Data Analysis (EDA).ipynb
+└─ README.md
 ---
 
 ## Key Insights
@@ -60,3 +59,4 @@ This project was created as part of my **Data Science portfolio** to demonstrate
 - Data visualization & storytelling
 
 Feel free to check out the notebook and share feedback!  
+
