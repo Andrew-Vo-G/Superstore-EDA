@@ -11,19 +11,15 @@ The main goal is to uncover insights about:
 
 ## Project Structure
 Superstore-EDA-Project/
-│── data/
+├── data/
 │ ├── Sample_Superstore.csv
-│ └── data_dictionary.csv
-│
-│── images/
+│ ├── data_dictionary.csv
+├── images/
 │ ├── sales_distribution.png
 │ ├── top_customers.png
-│ └── ...
-│
-│── notebooks/
-│ └── Exploratory Data Analysis (EDA).ipynb
-│
-│── README.md
+├── notebooks/
+│ ├── Exploratory Data Analysis (EDA).ipynb
+├── README.md
 
 ---
 
@@ -35,16 +31,18 @@ Superstore-EDA-Project/
 ![Sales Distribution](images/sales_distribution.png)
 
 **Main Findings:**
-- A small number of customers contribute to a large portion of total sales.  
-- Some product categories generate **high sales but low profit**, indicating potential issues with pricing or discount strategy.  
-- Certain regions consistently underperform, suggesting opportunities for targeted marketing.  
+- Sales are **concentrated among a small group of top customers**.  
+- Discounts have a significant effect on profit margins.  
+- Certain product categories and regions contribute disproportionately to sales.  
+- Opportunities exist for **targeted promotions** and **inventory optimization**.  
 
 ---
 
 ## Tech Stack
-- **Python** (Pandas, Matplotlib, Seaborn)  
-- **Jupyter Notebook** for interactive analysis  
-- **CSV** data source  
+- **Python 3.11**
+- **Pandas**, **NumPy** → data manipulation  
+- **Matplotlib**, **Seaborn** → visualization  
+- **Jupyter Notebook** → interactive analysis   
 
 ---
 
